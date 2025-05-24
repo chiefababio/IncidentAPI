@@ -1,4 +1,3 @@
 fastapi
-uvicorn
-transformers
-torch
+uvicorn[standard]
+gunicorn
